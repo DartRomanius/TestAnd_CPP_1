@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TestAnd_CPP_1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src0</name>
+			<type>2</type>
+			<location>C:/Users/1/source/repos/TestAnd_CPP_1/TestAnd_CPP_1/app/src/main/java</location>
+		</link>
+		<link>
+			<name>src1</name>
+			<type>2</type>
+			<location>C:/Users/1/source/repos/TestAnd_CPP_1/TestAnd_CPP_1/app/build/generated/source/r/x86-64/debug</location>
+		</link>
+	</linkedResources>
+</projectDescription>
